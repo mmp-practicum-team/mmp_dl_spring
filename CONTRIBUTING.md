@@ -14,4 +14,4 @@
 3. [В основную таблицу](./README.md) добавить ссылку на подпапку занятия, в ней будет отображаться `README.md` со всей необходимой информацией
 
 
-[Пример оформления занятия 1](https://colab.research.google.com/github/mmp-practicum-team/mmp_dl_spring/blob/main/Seminars/01-intro). Пример оформления с курса [DL2 ВШЭ](https://github.com/thecrazymage/DL2_HSE/tree/main/week_01). 
+[Пример оформления занятия 1](./Seminars/01-intro). Пример оформления с курса [DL2 ВШЭ](https://github.com/thecrazymage/DL2_HSE/tree/main/week_01). 
