@@ -20,4 +20,4 @@
 ## Аннотация
 На занятии мы на практике реализуем полный цикл обучения модели сегментации изображений &ndash; от предобработки данных до цикла обучения. Разберем, какие метрики и параметры важно логировать для контроля качества сегментации. Также рассмотрим инференс (применение) предобученных моделей детекции и сегментации. Отдельно на примере ортогональной регуляризации сверточных слоев обсудим, как подходить к проектированию дизайна эксперимента, как выборать архиктеры, данные и как отразить это в цикле обучения.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmp-practicum-team/mmp_dl_spring/blob/mipt_2026/Seminars/11-cv-practice/11-cv-practice.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmp-practicum-team/mmp_dl_spring/blob/mipt_2026/Seminars/10-cv-practice/10-cv-practice.ipynb)
