@@ -26,4 +26,4 @@
 ## Аннотация
 Мы уже изучили методы классификации изображений, теперь мы обсудим более сложные задачи и подходы к их решению. Мы пройдем путь от моделей, которые решали задачу и требовали множество ресурсов, до способов обработки изображений в режиме реального времени. Обсудим, как сегментировать изображения и как это связано с глобальным контекстом. Кроме того, обсудим применение архитектур из компьютерного зрения в других областях, например, нейронных операторов.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmp-practicum-team/mmp_dl_spring/blob/mipt_2026/Seminars/10-cv-advanced-tasks/10-cv-advanced-tasks.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmp-practicum-team/mmp_dl_spring/blob/mipt_2026/Seminars/09-cv-advanced-tasks/09-cv-advanced-tasks.ipynb)
