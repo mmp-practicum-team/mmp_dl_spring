@@ -59,10 +59,10 @@
 | 12 марта   | Занятие 10 | Практика решения задач компьютерного зрения | [Конспект](Seminars/10-cv-practice) | | | 
 | 19 марта   | Занятие 11 | <ul><li>Эмбеддинги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | [Конспект](Seminars/11-embedding) |  |  |
 | 19 марта   | Занятие 12 | Работа с эмбеддингами | [Конспект](Seminars/12-embedding-practice) |  |  |
-| 26 марта   | Занятие 13 | Рекуррентные сети: теория | [Конспект](Seminars/13-rnn) |  | [Рекуррентные Нейронные Сети. Dropout. LM]() |
+| 26 марта   | Занятие 13 | Рекуррентные сети: теория | [Конспект](Seminars/13-rnn) |  | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task3.ipynb) |
 | 26 марта   | Занятие 14 | Рекуррентные сети: практика | [Конспект](Seminars/14-rnn-practice) |  |  |
 | 02 апреля  | Занятие 15 | Трансформеры: теория |  |  |  |
-| 02 апреля  | Занятие 16 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Конспект](Seminars/16-bert-gpt-t5) |  | [Hugging Face NLP]() |
+| 02 апреля  | Занятие 16 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Конспект](Seminars/16-bert-gpt-t5) |  | [Hugging Face NLP](./Tasks/task3_5/task3_5.ipynb) |
 | 09 апреля  | Занятие 17 | <ul><li>Трансформеры</li><li>Transfer Learning</li><li>Transformers</li></ul> |  |  |  |
 | 09 апреля  | Занятие 18 | PEFT методы |  |  |  |
 | 16 апреля  | Занятие 19 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> |  |  | [Денойзинг аудио. Conformer]() |
