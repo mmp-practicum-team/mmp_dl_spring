@@ -64,10 +64,10 @@
 | 17 марта   | Занятие 14 | Работа с эмбеддингами |  [Конспект](./Seminars/14-embedding-practice) |  |  |
 | 23 марта   | Занятие 15 | Рекуррентные сети: теория | [Конспект](./Seminars/15-rnn)  |  | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task3.ipynb) |
 | 24 марта   | Занятие 16 | Рекуррентные сети: практика | [Конспект](./Seminars/16-rnn-practice) |  |  |
-| 30 марта   | Занятие 17 | Трансформеры: теория |  |  |  |
+| 30 марта   | Занятие 17 | Трансформеры: теория | [Конспект](./Seminars/17-transformers) |  |  |
 | 31 марта   | Занятие 18 | <ul><li>Bert</li><li>GPT</li><li>T5</li></ul> | [Конспект](./Seminars/18-bert-gpt-t5) |  | [Hugging Face NLP](./Tasks/task3_5/task3_5.ipynb) |
 | 31 марта   | Занятие 19 | Современные трансформеры | [Конспект](./Seminars/19-modern-transformers/) |  |  |
-| 06 апреля  | Занятие 20 | <ul><li>Трансформеры</li><li>Transfer Learning</li><li>Transformers</li></ul> |  |  |  |
+| 06 апреля  | Занятие 20 | <ul><li>Обучение LLM</li><li>Pre-training</li><li>SFT</li><li>Alignment</li></ul> | [Конспект](./Seminars/20-llm) |  |  |
 | 07 апреля  | Занятие 21 | Transformers: практика |  |  |  |
 | 07 апреля  | Занятие 22 | PEFT методы |  |  |  |
 | 13 апреля  | Занятие 23 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> |  |  | [Денойзинг аудио. Conformer]() |
