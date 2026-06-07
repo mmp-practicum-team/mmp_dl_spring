@@ -4,6 +4,13 @@
 
 Материалы составил: Мелихов Дмитрий (@dmitrymelikhov)
 
+### Источники:
+
+- [D2L book](https://d2l.ai) &ndash; учебник по DL, где можно найти базу по Attention и трансформерам и многим другим интересным темам.
+- [IBM blog про MHA/MQA/GQA](https://www.ibm.com/think/topics/grouped-query-attention) &ndash; Объяснение реализаций attention.
+- [Medium blog про Pre-Norm vs Post-Norm](https://medium.com/@ashutoshs81127/why-pre-norm-became-the-default-in-transformers-4229047e2620) &ndash; пояснение про порядок нормализаций
+- [HF blog про MoE](https://huggingface.co/blog/moe) &ndash; блог HuggingFace про Mixture of Experts
+
 ## Аннотация
 На этом занятии:
 - KV-cache
