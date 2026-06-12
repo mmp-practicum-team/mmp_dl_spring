@@ -77,7 +77,7 @@
 | 21 апреля  | Занятие 27 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Конспект](./Seminars/27-gan-practice) |  | [Генерация 3D сцен. pi-GAN](/Tasks/task5) |
 | 27 апреля  | Занятие 28 | Табличные данные  | [Конспект](./Seminars/28-tabular-dl) |  |  |
 | 28 апреля  | Занятие 29 | Графовые нейронные сети  | [Конспект](./Seminars/29-graph)  |  |  |
-| 04 мая     | Занятие 30 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul>  | [Слайды](./Seminars/30-multimodal) |  |  |
+| 04 мая     | Занятие 30 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul>  | [Конспект](./Seminars/30-multimodal) |  |  |
 | 05 мая     | Занятие 31 | <ul><li>Практика мультимодальных моделей</li><li>CLIP</li><li>LLaVA</li></ul> | [Конспект](./Seminars/31-clip) |  |  |
 | 11 мая     | Занятие 32 | Авторегрессионные модели генерации изображений  | [Конспект](./Seminars/32-ar-generation) |  |  |
 
