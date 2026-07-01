@@ -48,38 +48,38 @@
 
 | Дата | Номер | Тема | Материалы | Видеозапись | ДЗ |
 | :---: | :---: | --- | --- | --- | --- |
-| 09 февраля | Занятие 01 | Введение в глубокое обучение | [Конспект](./Seminars/01-intro) | | |
-| 10 февраля | Занятие 02 | Инициализация и регуляризация нейросетей | [Конспект](./Seminars/02-init-reg) | | | 
-| 10 февраля | Занятие 03 | Автоматическое дифференцирование | [Конспект](./Seminars/03-autodiff) | | [Полносвязная нейронная сеть на numpy](./Tasks/task1)|
-| 16 февраля | Занятие 04 | PyTorch | [Конспект](./Seminars/04-pytorch-base) | | [Простейшая нейронная сеть на PyTorch](./Tasks/task1_5) | 
-| 17 февраля | Занятие 05 | Оптимизаторы  | [Конспект](./Seminars/05-optimization/) | | | 
-| 17 февраля | Занятие 06 | Дополнительные главы PyTorch | [Конспект](./Seminars/06-pytorch-advanced/) | | | 
-| 24 февраля | Занятие 07 | Операция свёртки | [Конспект](./Seminars/07-convolution/) | | | 
-| 24 февраля | Занятие 08 | Свёрточные нейронные сети | [Конспект](./Seminars/08-cnn/) | | | 
-| 26 февраля | Занятие 09 | Цикл обучения в PyTorch | [Конспект](./Seminars/09-training/) | | | | 
-| 02 марта   | Занятие 10 | Задачи компьютерного зрения: детекция, сегментация  | [Конспект](./Seminars/10-cv-advanced-tasks/) | | [Сегментация изображений](./Tasks/task2) | 
-| 03 марта   | Занятие 11 | Практика решения задач компьютерного зрения | [Конспект](./Seminars/11-cv-practice/) | | | 
-| 03 марта   | Занятие 12 | Физически информированные нейронные сети | [Конспект](./Seminars/12-pinn/) | | | 
-| 16 марта   | Занятие 13 | <ul><li>Эмбеддинги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | [Конспект](./Seminars/13-embedding) |  |  |
-| 17 марта   | Занятие 14 | Работа с эмбеддингами |  [Конспект](./Seminars/14-embedding-practice) |  |  |
-| 23 марта   | Занятие 15 | Рекуррентные сети: теория | [Конспект](./Seminars/15-rnn)  |  | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task3.ipynb) |
-| 24 марта   | Занятие 16 | Рекуррентные сети: практика | [Конспект](./Seminars/16-rnn-practice) |  |  |
-| 30 марта   | Занятие 17 | Трансформеры: теория | [Конспект](./Seminars/17-transformers) |  |  |
-| 31 марта   | Занятие 18 | <ul><li>Bert</li><li>GPT</li><li>T5</li></ul> | [Конспект](./Seminars/18-bert-gpt-t5) |  | [Hugging Face NLP](./Tasks/task3_5) |
-| 31 марта   | Занятие 19 | Современные трансформеры | [Конспект](./Seminars/19-modern-transformers/) |  |  |
-| 06 апреля  | Занятие 20 | <ul><li>Обучение LLM</li><li>Pre-training</li><li>SFT</li><li>Alignment</li></ul> | [Конспект](./Seminars/20-llm) |  |  |
-| 07 апреля  | Занятие 21 | Transformers: практика |  [Конспект](./Seminars/21-llm-train) |  |  |
-| 07 апреля  | Занятие 22 | PEFT методы | [Конспект](./Seminars/22-peft) |  |  |
-| 13 апреля  | Занятие 23 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | [Конспект](./Seminars/23-audio) |  | [Денойзинг аудио. Conformer](/Tasks/task4) |
-| 14 апреля  | Занятие 24 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> |  |  |  |
-| 20 апреля  | Занятие 25 | <ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul> | [Конспект](./Seminars/25-3d-nerf) |  |  |
-| 21 апреля  | Занятие 26 | <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Конспект](./Seminars/26-generative-learning-gan) |  |  |
-| 21 апреля  | Занятие 27 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Конспект](./Seminars/27-gan-practice) |  | [Генерация 3D сцен. pi-GAN](/Tasks/task5) |
-| 27 апреля  | Занятие 28 | Табличные данные  | [Конспект](./Seminars/28-tabular-dl) |  |  |
-| 28 апреля  | Занятие 29 | Графовые нейронные сети  | [Конспект](./Seminars/29-graph)  |  |  |
-| 04 мая     | Занятие 30 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul>  | [Конспект](./Seminars/30-multimodal) |  |  |
-| 05 мая     | Занятие 31 | <ul><li>Практика мультимодальных моделей</li><li>CLIP</li><li>LLaVA</li></ul> | [Конспект](./Seminars/31-clip) |  |  |
-| 11 мая     | Занятие 32 | Авторегрессионные модели генерации изображений  | [Конспект](./Seminars/32-ar-generation) |  |  |
+| 09 февраля | Занятие 01 | Введение в глубокое обучение | [Конспект](./Seminars/01-intro) | [Запись](https://www.youtube.com/watch?v=yoIR4aGlZO4&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | |
+| 10 февраля | Занятие 02 | Инициализация и регуляризация нейросетей | [Конспект](./Seminars/02-init-reg) | [Запись, Часть 1](https://www.youtube.com/watch?v=9rtlaAgcunA&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) [Запись, Часть 2](https://www.youtube.com/watch?v=6J2X0WJBA4c&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | 
+| 10 февраля | Занятие 03 | Автоматическое дифференцирование | [Конспект](./Seminars/03-autodiff) | [Запись](https://www.youtube.com/watch?v=s2R0XFqXUBk&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | [Полносвязная нейронная сеть на numpy](./Tasks/task1)|
+| 16 февраля | Занятие 04 | PyTorch | [Конспект](./Seminars/04-pytorch-base) | [Запись](https://www.youtube.com/watch?v=IBiAtCWHTIY&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | [Простейшая нейронная сеть на PyTorch](./Tasks/task1_5) | 
+| 17 февраля | Занятие 05 | Оптимизаторы  | [Конспект](./Seminars/05-optimization/) | [Запись](https://www.youtube.com/watch?v=-NWBvbKqpqY&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | 
+| 17 февраля | Занятие 06 | Дополнительные главы PyTorch | [Конспект](./Seminars/06-pytorch-advanced/) | [Запись](https://www.youtube.com/watch?v=lK1O2mjITDg&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | 
+| 24 февраля | Занятие 07 | Операция свёртки | [Конспект](./Seminars/07-convolution/) | [Запись](https://www.youtube.com/watch?v=1MhXidiov7U&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | 
+| 24 февраля | Занятие 08 | Свёрточные нейронные сети | [Конспект](./Seminars/08-cnn/) | [Запись](https://www.youtube.com/watch?v=INOYL5WN1s8&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | 
+| 26 февраля | Занятие 09 | Цикл обучения в PyTorch | [Конспект](./Seminars/09-training/) | [Запись, Часть 1](https://www.youtube.com/watch?v=QXLnRf9zgbM&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) [Запись, Часть 2](https://www.youtube.com/watch?v=OUMFAMR3i-M&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | | 
+| 02 марта   | Занятие 10 | Задачи компьютерного зрения: детекция, сегментация  | [Конспект](./Seminars/10-cv-advanced-tasks/) | [Запись](https://www.youtube.com/watch?v=1lAVPvdzmSk&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | [Сегментация изображений](./Tasks/task2) | 
+| 03 марта   | Занятие 11 | Практика решения задач компьютерного зрения | [Конспект](./Seminars/11-cv-practice/) | [Запись](https://www.youtube.com/watch?v=xVAQ0Y1vjeE&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | 
+| 03 марта   | Занятие 12 | Физически информированные нейронные сети | [Конспект](./Seminars/12-pinn/) | [Запись](https://www.youtube.com/watch?v=9j_6ENyzY7A&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | | 
+| 16 марта   | Занятие 13 | <ul><li>Эмбеддинги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | [Конспект](./Seminars/13-embedding) | [Запись](https://www.youtube.com/watch?v=nn7sSr8MSTQ&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 17 марта   | Занятие 14 | Работа с эмбеддингами |  [Конспект](./Seminars/14-embedding-practice) | [Запись](https://www.youtube.com/watch?v=xVesleAsVjk&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 23 марта   | Занятие 15 | Рекуррентные сети: теория | [Конспект](./Seminars/15-rnn)  | [Запись](https://www.youtube.com/watch?v=GbikQN_NtqY&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task3.ipynb) |
+| 24 марта   | Занятие 16 | Рекуррентные сети: практика | [Конспект](./Seminars/16-rnn-practice) | [Запись](https://www.youtube.com/watch?v=9XbmKvkwpXM&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 30 марта   | Занятие 17 | Трансформеры: теория | [Конспект](./Seminars/17-transformers) | [Запись](https://www.youtube.com/watch?v=jWU4itOtrrE&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 31 марта   | Занятие 18 | <ul><li>Bert</li><li>GPT</li><li>T5</li></ul> | [Конспект](./Seminars/18-bert-gpt-t5) | [Запись](https://www.youtube.com/watch?v=ovPa9Q7PKQY&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | [Hugging Face NLP](./Tasks/task3_5) |
+| 31 марта   | Занятие 19 | Современные трансформеры | [Конспект](./Seminars/19-modern-transformers/) | [Запись](https://www.youtube.com/watch?v=zZIlNOkdQok&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 06 апреля  | Занятие 20 | <ul><li>Обучение LLM</li><li>Pre-training</li><li>SFT</li><li>Alignment</li></ul> | [Конспект](./Seminars/20-llm) | [Запись](https://www.youtube.com/watch?v=VRJWdvpCklE&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 07 апреля  | Занятие 21 | Transformers: практика |  [Конспект](./Seminars/21-llm-train) | [Запись](https://www.youtube.com/watch?v=rNx1ABmCSHY&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 07 апреля  | Занятие 22 | PEFT методы | [Конспект](./Seminars/22-peft) | [Запись](https://www.youtube.com/watch?v=qdD7EKri9g8&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 13 апреля  | Занятие 23 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | [Конспект](./Seminars/23-audio) | [Запись](https://www.youtube.com/watch?v=rNx1ABmCSHY&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | [Денойзинг аудио. Conformer](/Tasks/task4) |
+| 14 апреля  | Занятие 24 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> |  | [Запись](https://www.youtube.com/watch?v=G3e_JTxxAwE&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 20 апреля  | Занятие 25 | <ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul> | [Конспект](./Seminars/25-3d-nerf) | [Запись](https://www.youtube.com/watch?v=oKTUauFrDqE&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 21 апреля  | Занятие 26 | <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Конспект](./Seminars/26-generative-learning-gan) | [Запись](https://www.youtube.com/watch?v=XJbO9W3HLyg&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 21 апреля  | Занятие 27 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Конспект](./Seminars/27-gan-practice) | [Запись](https://www.youtube.com/watch?v=iVw7VahD0Ss&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) | [Генерация 3D сцен. pi-GAN](/Tasks/task5) |
+| 27 апреля  | Занятие 28 | Табличные данные  | [Конспект](./Seminars/28-tabular-dl) | [Запись](https://www.youtube.com/watch?v=fEdK-jm1jB8&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 28 апреля  | Занятие 29 | Графовые нейронные сети  | [Конспект](./Seminars/29-graph)  | [Запись](https://www.youtube.com/watch?v=SjNj23WSvxk&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 04 мая     | Занятие 30 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul>  | [Конспект](./Seminars/30-multimodal) | [Запись](https://www.youtube.com/watch?v=khnudlRFPgs&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 05 мая     | Занятие 31 | <ul><li>Практика мультимодальных моделей</li><li>CLIP</li><li>LLaVA</li></ul> | [Конспект](./Seminars/31-clip) | [Запись](https://www.youtube.com/watch?v=bZ6Xhb3mmeQ&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
+| 11 мая     | Занятие 32 | Авторегрессионные модели генерации изображений  | [Конспект](./Seminars/32-ar-generation) | [Запись](https://www.youtube.com/watch?v=OCUuLeWmybE&list=PLhe7c-LCgl4IZgeTXsmBADlUwurF9czym) |  |
 
 
 
