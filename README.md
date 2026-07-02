@@ -171,3 +171,29 @@
 **Важно:** ссылки иногда ведут не на конкретные репозитории, а на организации, в которых выкладываются или будут в скором времени выложены основные материалы и записи.
 
 ## Команда курса
+
+Преподаватели:
+[Оганов Александр](https://github.com/3145tttt), 
+[Феоктистов Дмитрий](https://github.com/TrandeLik),
+[Богачев Владимир](https://github.com/Bogachevv),
+[Алексеев Илья](https://github.com/voorhs),
+[Загатин Даниил](https://github.com/DaniilZagatin),
+[Денисов Егор](https://github.com/DenisovEgor),
+[Голубев Роман](https://github.com/Tetragrammaton123),
+[Ильясов Эрик](https://github.com/erikotoz),
+[Дегтев Василий](https://github.com/qualliix),
+[Максим Марьясов](https://github.com/Gamcher),
+[Мелихов Дмитрий](https://github.com/Dmitry315),
+[Иванов Егор](https://github.com/e1vanov),
+[Овсиенко Олеся](https://github.com/olesyaovsienko),
+[Табаченков Андрей](https://github.com/Tabachenkov),
+[Ким Роман](https://github.com/karmanrim),
+[Булкин Антон](https://github.com/bulkin-anton),
+[Курцев Дмитрий](https://github.com/dmit-vuk),
+[Акопова Лена](https://github.com/k0lenk4)
+
+Организация: [Оганов Александр](https://github.com/3145tttt)
+
+Руководство и менторство: [Кравцова Ольга](), [Находнов Максим](https://github.com/nakhodnov17), [Кропотов Дмитрий]()
+
+Отдельная благодарность за гостевые лекции: [Алиеву Мишану](https://github.com/thecrazymage), [Баранчуку Дмитрию](https://github.com/dbaranchuk), [Рубачёву Ивану](https://github.com/puhsu)
