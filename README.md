@@ -63,7 +63,7 @@
 | 26 марта   | Занятие 14 | Рекуррентные сети: практика | [Конспект](Seminars/14-rnn-practice) |  |  |
 | 02 апреля  | Занятие 15 | Трансформеры: теория | [Конспект](Seminars/15-transformers) |  |  |
 | 02 апреля  | Занятие 16 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Конспект](Seminars/16-bert-gpt-t5) | | [Hugging Face NLP](./Tasks/task3_5/task3_5.ipynb) |
-| 09 апреля  | Занятие 17 | <ul><li>Трансформеры</li><li>Transfer Learning</li><li>Transformers</li></ul> |  |  |  |
+| 09 апреля  | Занятие 17 | <ul><li>Обучение LLM</li><li>Pre-training</li><li>SFT</li><li>Alignment</li></ul> |  |  |  |
 | 09 апреля  | Занятие 18 | PEFT методы |  |  |  |
 | 16 апреля  | Занятие 19 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | [Конспект](./Seminars/19-audio)  |  | [Денойзинг аудио. Conformer]() |
 | 16 апреля  | Занятие 20 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> |  |  |  |
