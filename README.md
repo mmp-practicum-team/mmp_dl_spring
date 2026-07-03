@@ -183,7 +183,7 @@
 [Курцев Дмитрий](https://github.com/dmit-vuk),
 [Акопова Лена](https://github.com/k0lenk4)
 
-Ассистенты: [Поздова Полина](), [Парфенова Анна](), [Спицын Николай]()
+Ассистенты: [Поздова Полина](https://github.com/Polina18), [Парфенова Анна](https://github.com/keramika4), [Спицын Николай](https://github.com/Jetminded)
 
 Организация: [Оганов Александр](https://github.com/3145tttt)
 
